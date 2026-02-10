@@ -1,4 +1,4 @@
-package reino;
+package main.java.reino;
 
 public abstract class Vehiculo {
 
